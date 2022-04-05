@@ -1,4 +1,4 @@
-# ignore files
+# ignore crypto data
 crypto_data.csv
 
 # Byte-compiled / optimized / DLL files
