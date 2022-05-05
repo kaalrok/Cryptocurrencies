@@ -16,3 +16,24 @@ Accountability Accounting, a prominent investment bank, is interested in offerin
 
 ## Deliverable 1: Preprocessing the Data for PCA
 
+![Deliverable 1 Table](./Pictures/Deliverable_1_table.png)
+
+## Deliverable 2: Reducing Data Dimensions Using PCA
+
+![Deliverable 2 Table](./Pictures/Deliverable_2_table.png)
+
+## Deliverable 3: Clustering Cryptocurrencies Using K-means
+
+![Deliverable 3 Table](./Pictures/clustered_df.png)
+![Deliverable 3 Elbow Curve](./Pictures/Elbow_Curve_K-Means.png)
+
+Deliverable 4: Visualizing Cryptocurrencies Results
+
+![Deliverable 4 Table](./Pictures/html-hvplot-table.png)
+![Deliverable 4 3D Plot](./Pictures/3D_Scatter-plot.png)
+![Deliverable 4 plot_df](./Pictures/plot_df-TotalCoinsMined-Supply_dataframe.png)
+![Deliverable 4 hv-scatter plot](./Pictures/hvplot_scatter.png)
+
+
+## Summary
+All requirements are fulfilled. 
